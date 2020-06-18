@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "충남대 20학번"
+  name             : "충남대학교"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "컴퓨터융합학부 **20학번** 공대 새내기들"
   location         : "Somewhere"
   email            :
   links:
