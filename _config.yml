@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : mmistakes/minimal-mistakes
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "슈뢰딩거의 20학번"
+locale                   : "ko"
+title                    : "schrodinger 20"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "충남대학교 20학번 공애긔들"
-description              : "충남대학교 모각코"
+name                     : "공애긔들"
+description              : "충남대학교 모각코 소모임"
 url                      : "https://schrodinger_20.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,7 +96,7 @@ author:
   name             : "충남대학교"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**컴퓨터융합학부 20학번**"
-  location         : "Somewhere"
+  location         : "Korea"
   email            :
   links:
     - label: "Email"
